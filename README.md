@@ -8,3 +8,5 @@ I'm passionate about Automation Testing and constantly exploring new techniques 
 - 📫 You can reach me at [errahul.rp@gmail.com](mailto:errahul.rp@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-patil-02b2a2273).
 
 Feel free to check out my repositories below and let's connect to discuss testing strategies, tools, or any exciting opportunities!
+
+![Snake animation](https://github.com/rahulpatil/rahulpatil/blob/output/github-contribution-grid-snake.svg)
